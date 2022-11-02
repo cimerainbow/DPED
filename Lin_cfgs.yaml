@@ -1,0 +1,8 @@
+
+dataset: BSDS # BSDS BSDS-VOC NYUD-image NYUD-hha MultiCue-Edge MultiCue-Contour
+
+dataset_path:
+    BSDS-VOC: D:\chenll\Dataset\new_data\BSDS500
+    BSDS: D:\chenll\Dataset\new_data\BSDS500\HED-BSDS
+    NYUD-V2: E:/LC/ZhangXiao/NYUD
+
