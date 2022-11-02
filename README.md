@@ -1,9 +1,10 @@
 # DPED
 This repository contains the Implementation details of the paper "DPED: Bio-inspired dual-pathway network for edge detection".<br>
 The address of the paper is at https://www.frontiersin.org/articles/10.3389/fbioe.2022.1008140/full <br>
-If you have any questions, you can make issue or send email to [gauss.chenll@gmail.com](gauss.chenll@gmail.com) .<br>
+If you have any questions, you can make issue or send email to [gauss.chenll@gmail.com](gauss.chenll@gmail.com). <br>
 
 ##Citations
+
 If you are using the code/model/data provided here in a publication, please consider citing our paper:<br>
 ```
 @article{chen2022dped,
